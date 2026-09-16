@@ -1,0 +1,18 @@
+# Compilados Java
+*.class
+bin/
+out/
+target/
+
+# Editores e IDEs
+.idea/
+*.iml
+nbproject/private/
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Logs da ferramenta de migracao de Java
+.github/java-upgrade/
